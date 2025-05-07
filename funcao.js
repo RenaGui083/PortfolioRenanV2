@@ -21,7 +21,7 @@ function imc() {
 }
 function sms() {
     window.location.href = 'https://renagui083.github.io/SMS/';
-}';
+}
 }
 function portfolioAntigo() {
     window.location.href = ' https://renagui083.github.io/PortfolioAtualizado/';
