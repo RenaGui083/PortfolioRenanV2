@@ -19,6 +19,9 @@ function suporte() {
 function imc() {
     window.location.href = 'https://renagui083.github.io/imcSite/';
 }
+function portfolioAntigo() {
+    window.location.href = ' https://renagui083.github.io/PortfolioAtualizado/';
+}
 function contatar(){
     window.scrollTo({
         top: 10000,  
